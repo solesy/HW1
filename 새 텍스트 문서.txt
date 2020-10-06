@@ -1,4 +1,4 @@
 master
-//conflict will happen
-+branch2
-+branch3
+*branch1
+*branch2
+*branch3
